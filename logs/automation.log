@@ -1,0 +1,69 @@
+00:02:59.348 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Work Activity\Selenium New PGM\OpenCartVersion121\master.xml
+
+00:03:11.511 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting Excution****
+00:03:13.797 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting Excution****
+00:03:14.224 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click my account......
+00:03:14.489 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Click my account......
+00:03:16.123 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click my Registration......
+00:03:16.127 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - provide the customer details......
+00:03:17.781 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Click my Registration......
+00:03:17.782 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - provide the customer details......
+00:03:19.392 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting Excution****
+00:03:19.591 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Click my account......
+00:03:20.190 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** test excution Finished ***
+00:03:20.779 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Click my Registration......
+00:03:20.780 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - provide the customer details......
+00:03:21.744 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** test excution Finished ***
+00:03:22.452 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** test excution Finished ***
+18:05:11.053 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Work Activity\Selenium New PGM\OpenCartVersion121\master.xml
+
+18:05:23.196 [TestNG-tests-1] INFO  testCases.TC002_loginTest - ***** Start TC002 LoginTest Execution ****
+18:05:25.814 [TestNG-tests-2] INFO  testCases.TC002_loginTest - ***** Start TC002 LoginTest Execution ****
+18:05:26.850 [TestNG-tests-1] INFO  testCases.TC002_loginTest -  start Login Page test
+18:05:27.967 [TestNG-tests-2] INFO  testCases.TC002_loginTest -  start Login Page test
+18:05:31.215 [TestNG-tests-2] INFO  testCases.TC002_loginTest - Login test Finished
+18:05:31.215 [TestNG-tests-1] INFO  testCases.TC002_loginTest - Login test Finished
+18:05:31.338 [TestNG-tests-3] INFO  testCases.TC002_loginTest - ***** Start TC002 LoginTest Execution ****
+18:05:32.482 [TestNG-tests-3] INFO  testCases.TC002_loginTest -  start Login Page test
+18:05:33.832 [TestNG-tests-3] INFO  testCases.TC002_loginTest - Login test Finished
+18:09:46.888 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Work Activity\Selenium New PGM\OpenCartVersion121\master.xml
+
+18:09:53.709 [TestNG-tests-1] INFO  testCases.TC002_loginTest - ***** Start TC002 LoginTest Execution ****
+18:09:54.441 [TestNG-tests-2] INFO  testCases.TC002_loginTest - ***** Start TC002 LoginTest Execution ****
+18:09:55.057 [TestNG-tests-1] INFO  testCases.TC002_loginTest -  start Login Page test
+18:09:55.554 [TestNG-tests-2] INFO  testCases.TC002_loginTest -  start Login Page test
+18:09:57.939 [TestNG-tests-2] INFO  testCases.TC002_loginTest - Login test Finished
+18:09:57.939 [TestNG-tests-1] INFO  testCases.TC002_loginTest - Login test Finished
+18:10:35.903 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Work Activity\Selenium New PGM\OpenCartVersion121\master.xml
+
+18:10:43.338 [TestNG-tests-1] INFO  testCases.TC002_loginTest - ***** Start TC002 LoginTest Execution ****
+18:10:43.501 [TestNG-tests-2] INFO  testCases.TC002_loginTest - ***** Start TC002 LoginTest Execution ****
+18:10:44.434 [TestNG-tests-1] INFO  testCases.TC002_loginTest -  start Login Page test
+18:10:44.709 [TestNG-tests-2] INFO  testCases.TC002_loginTest -  start Login Page test
+18:10:49.283 [TestNG-tests-3] INFO  testCases.TC002_loginTest - ***** Start TC002 LoginTest Execution ****
+18:10:50.863 [TestNG-tests-3] INFO  testCases.TC002_loginTest -  start Login Page test
+18:10:51.947 [TestNG-tests-1] INFO  testCases.TC002_loginTest - Login test Finished
+18:10:51.947 [TestNG-tests-2] INFO  testCases.TC002_loginTest - Login test Finished
+18:10:52.682 [TestNG-tests-3] INFO  testCases.TC002_loginTest - Login test Finished
+18:49:57.542 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Work Activity\Pavan pgm File\Testing Pgm File\Selenium New PGM\OpenCartVersion121\master.xml
+
+18:50:17.926 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting Excution****
+18:50:18.130 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click my account......
+18:50:19.652 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click my Registration......
+18:50:19.680 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - provide the customer details......
+18:50:20.189 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting Excution****
+18:50:20.407 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Click my account......
+18:50:21.562 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Click my Registration......
+18:50:21.563 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - provide the customer details......
+18:50:23.232 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** test excution Finished ***
+18:50:23.803 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** test excution Finished ***
+18:50:39.982 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting Excution****
+18:50:40.138 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Click my account......
+18:50:40.665 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Click my Registration......
+18:50:40.666 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - provide the customer details......
+18:50:42.648 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** test excution Finished ***
